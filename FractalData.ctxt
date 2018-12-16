@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=FractalData
+comment0.text=\r\n\ FractalData\ class\ recieves\ raw\ data\ from\ the\ GUI\ and\ processes\ into\ shape\ data\r\n\r\n\ @author\ \ \ \ \ \ Oyunomin\ Munkhkhurel\r\n\ @version\ \ \ \ \ 3/3/2018\r\n
+comment1.params=
+comment1.target=FractalData()
+comment1.text=\r\n\ Constructor\ of\ this\ class\r\n
+comment2.params=depth\ ratio\ angle\ colorCactus\ colorPear
+comment2.target=void\ setData(int,\ int,\ int,\ java.awt.Color,\ java.awt.Color)
+comment2.text=\r\n\ Sets\ necessary\ data\r\n\ \r\n\ @param\ \ \ int\ \ \ \ \ depth\ of\ the\ shape\ to\ be\ drawn\r\n\ @param\ \ \ int\ \ \ \ \ ratio\ of\ the\ parent\ and\ the\ child\r\n\ @param\ \ \ int\ \ \ \ \ angle\ from\ the\ parent's\ orientation\r\n\ @param\ \ \ Color\ \ \ color\ of\ the\ cactus,\ main\ body\r\n\ @param\ \ \ Color\ \ \ color\ of\ the\ pear,\ flower\r\n
+comment3.params=x\ y\ width\ height\ orientation
+comment3.target=Shape\ calculate(int,\ int,\ int,\ int,\ double)
+comment3.text=\r\n\ Calculates\ the\ parent\ and\ it's\ children's\ coordinate\ and\ the\ radius\r\n\ \r\n\ @param\ \ \ int\ \ \ \ \ x\ coordinate\ of\ the\ shape\r\n\ @param\ \ \ int\ \ \ \ \ y\ coordinate\ of\ the\ shape\r\n\ @param\ \ \ int\ \ \ \ \ width\ of\ the\ shape\r\n\ @param\ \ \ int\ \ \ \ \ height\ of\ the\ shape\r\n\ @param\ \ \ double\ \ orientation\ of\ the\ shape\r\n
+comment4.params=x\ y
+comment4.target=ArrayList\ getData(int,\ int)
+comment4.text=\r\n\ Retrieves\ the\ arraylist\ full\ of\ shape\ information\ and\ gets\ the\ initial\ x,\ y\ coordinate\r\n\ \r\n\ @param\ int\ the\ biggest\ shape's\ x\ coordinate\r\n\ @param\ int\ the\ biggest\ shape's\ y\ coordinate\r\n\ @return\ array\ list\ calculated\ based\ on\ the\ parameters\r\n
+comment5.params=observer
+comment5.target=void\ registerObserver(Observer)
+comment6.params=observer
+comment6.target=void\ removeObserver(Observer)
+comment7.params=
+comment7.target=void\ notifyObservers()
+numComments=8

@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Subject
+comment0.text=\r\n\ Subject\ class\ for\ observers\ \r\n\r\n\ @author\ \ \ Oyunomin\ Munkhkhurel\r\n\ @version\ \ 3/3/2018\r\n
+comment1.params=observer
+comment1.target=void\ registerObserver(Observer)
+comment1.text=\r\n\ Regiters\ observer\ to\ this\ subject\r\n\r\n\ @param\ \ \ Observer\ \ \ \ registering\ observer\ who\ also\ impelement\ Observer\ interface\r\n
+comment2.params=observer
+comment2.target=void\ removeObserver(Observer)
+comment2.text=\r\n\ Removes\ observer\ to\ this\ subject\r\n\r\n\ @param\ \ \ Observer\ \ \ \ removing\ observer\ who\ also\ impelement\ Observer\ interface\r\n
+comment3.params=
+comment3.target=void\ notifyObservers()
+comment3.text=\r\n\ Notifies\ the\ news\ that\ new\ data\ came\ to\ the\ observers\r\n
+comment4.params=depth\ ratio\ angle\ colorCactus\ colorPear
+comment4.target=void\ setData(int,\ int,\ int,\ java.awt.Color,\ java.awt.Color)
+comment4.text=\r\n\ Sets\ the\ data\ \r\n\ \r\n\ @param\ \ \ int\ \ \ \ \ depth\ of\ the\ resursion\r\n\ @param\ \ \ int\ \ \ \ \ ratio\ of\ the\ parent\ and\ a\ child\r\n\ @param\ \ \ int\ \ \ \ \ angle\ from\ the\ orientation\r\n\ @param\ \ \ Color\ \ \ colorCactus\ color\ of\ the\ cactus\ main\ body\r\n\ @param\ \ \ Color\ \ \ colorPear\ color\ of\ the\ cactus's\ pear\r\n
+comment5.params=x\ y
+comment5.target=ArrayList\ getData(int,\ int)
+numComments=6

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=GraphicUI
+comment0.text=\r\n\ Graphics\ User\ Interface\ class\ that\ handles\ the\ user\ input\ and\ visuals\r\n\r\n\ @author\ \ \ \ \ \ Oyunomin\ Munkhkhurel\r\n\ @version\ \ \ \ \ 2/28/2018\r\n
+comment1.params=data
+comment1.target=GraphicUI(FractalData)
+comment1.text=\r\n\ Full\ constructor\ for\ this\ class\r\n\ \r\n\ @param\ \ \ \ data\ class\ that\ will\ process\ the\ collected\ datas\r\n
+comment2.params=event
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=event
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=event
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=5

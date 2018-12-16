@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Observer
+comment0.text=\r\n\ Observer\ class\ \r\n\r\n\ @author\ \ \ \ Oyunomin\ Munkhkhurel\r\n\ @version\ \ \ 3/3/2018\r\n
+comment1.params=
+comment1.target=void\ update()
+comment1.text=\r\n\ Recieves\ the\ data\ update\ news\r\n\r\n\ @param\ \ \ \ Subject\ \ registering\ and\ news\ recieving\ subject\r\n
+numComments=2

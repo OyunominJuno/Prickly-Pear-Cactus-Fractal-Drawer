@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=FractalDraw
+comment0.text=\r\n\ FractalDraw\ class\ recieves\ shape\ data\ from\ the\ fractal\ data\ and\ fraws\r\n\r\n\ @author\ \ \ \ \ \ Oyunomin\ Munkhkhurel\r\n\ @version\ \ \ \ \ 3/3/2018\r\n
+comment1.params=data
+comment1.target=FractalDraw(Subject)
+comment1.text=\r\n\ Full\ constructor\ of\ this\ class\r\n\ \r\n\ @param\ \ \ \ Subject\ \ \ \ subject\ class\ to\ register\r\n
+comment2.params=
+comment2.target=void\ update()
+comment2.text=\r\n\ If\ there\ is\ any\ new\ information\ this\ method\ retrieves\ the\ data\ and\ repaints\r\n
+numComments=3
